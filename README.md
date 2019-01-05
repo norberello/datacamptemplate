@@ -1,4 +1,4 @@
-# DataCamp Template Course
+# tarariquetevi datacamp course
 <a href=https://dev.datacamp.com//teach/repositories/97600087/go target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/course_button.png" width="150"></a>
 <a href=https://dev.datacamp.com//teach/repositories target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/dashboard_button.png" width="150"></a>
 
