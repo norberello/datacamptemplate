@@ -15,7 +15,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 - Animation
 - Komedia
 
-*** =pista
+*** =hint
 ta zer ez da berdin, poroporopororpoporo
 
 *** =pre_exercise_code
@@ -46,12 +46,12 @@ In the previous exercise, you saw a dataset about movies. In this exercise, we'l
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
 
-*** =zeregina
+*** =instructions
 - Check out the structure of `movie_selection`.
 - Select movies with a rating of 5 or higher. Assign the result to `good_movies`.
 - Use `plot()` to  plot `good_movies$Run` on the x-axis, `good_movies$Rating` on the y-axis and set `col` to `good_movies$Genre`.
 
-*** =pista de la pista
+*** =hint
 - Use `str()` for the first instruction.
 - For the second instruction, you should use `...[movie_selection$Rating >= 5, ]`.
 - For the plot, use `plot(x = ..., y = ..., col = ...)`.
@@ -80,7 +80,7 @@ rm(Movies)
 
 ```
 
-*** =ebazpena
+*** =solution
 ```{r}
 # movie_selection is available in your workspace
 
