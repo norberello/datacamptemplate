@@ -1,5 +1,6 @@
-title            : Tarariquetevi datacamp course
-description      : Wonderful template for datacamp course creation
-university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+title: "Tarariquetevi datacamp course"
+description: "Wonderful template for datacamp course creation"
+university: "DataCamp"
+difficulty_level: 2
+time_needed: "1 hour"
+programming_language: "r"
